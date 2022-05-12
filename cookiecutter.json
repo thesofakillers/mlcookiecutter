@@ -1,0 +1,7 @@
+{
+  "project_name": "noname",
+  "version": "0.1.0",
+  "description": "no description",
+  "author": "First Last <first.last@email.com>",
+  "python_version": "^3.8"
+}
